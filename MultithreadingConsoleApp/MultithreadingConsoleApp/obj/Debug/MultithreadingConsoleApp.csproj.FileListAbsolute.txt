@@ -1,0 +1,7 @@
+D:\C#\MultithreadingConsoleApp\MultithreadingConsoleApp\bin\Debug\MultithreadingConsoleApp.exe.config
+D:\C#\MultithreadingConsoleApp\MultithreadingConsoleApp\bin\Debug\MultithreadingConsoleApp.exe
+D:\C#\MultithreadingConsoleApp\MultithreadingConsoleApp\bin\Debug\MultithreadingConsoleApp.pdb
+D:\C#\MultithreadingConsoleApp\MultithreadingConsoleApp\obj\Debug\MultithreadingConsoleApp.csproj.AssemblyReference.cache
+D:\C#\MultithreadingConsoleApp\MultithreadingConsoleApp\obj\Debug\MultithreadingConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\MultithreadingConsoleApp\MultithreadingConsoleApp\obj\Debug\MultithreadingConsoleApp.exe
+D:\C#\MultithreadingConsoleApp\MultithreadingConsoleApp\obj\Debug\MultithreadingConsoleApp.pdb
